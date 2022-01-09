@@ -1,13 +1,11 @@
+package objectsForXMLParsing;
+
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement;
-import lombok.AccessLevel;
-import lombok.Builder;
 import lombok.Data;
 
-import java.lang.annotation.Annotation;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 @Data
@@ -42,7 +40,7 @@ public class User{
 
  @Override
  public String toString() {
-  return "User{" +
+  return "objects.User{" +
           "firstName='" + firstName + '\'' +
           ", lastName='" + lastName + '\'' +
           ", role='" + role + '\'' +

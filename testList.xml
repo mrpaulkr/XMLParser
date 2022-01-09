@@ -1,8 +1,1 @@
-<users>
-    <firstName>TestName</firstName>
-    <lastName>LastName</lastName>
-    <role>Developer</role>
-    <position>Lead</position>
-    <phoneNumbers>4234</phoneNumbers>
-    <phoneNumbers>123456</phoneNumbers>
-</users>
+<users><firstName>TestName</firstName><lastName>LastName</lastName><role>Developer</role><position>Lead</position><phoneNumbers>4234</phoneNumbers><phoneNumbers>123456</phoneNumbers></users>

@@ -1,1 +1,19 @@
-<User><firstName>TestName</firstName><lastName>LastName</lastName><role>Developer</role><position>Lead</position><phoneNumber>3473294</phoneNumber></User>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+  <book>
+      <author>Corets, Eva</author>
+      <title>The Sundered Grail</title>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+      <publish_date>2001-09-10</publish_date>
+      <description>The two daughters of Maeve</description>
+  </book>
+  <book>
+        <author>Corets, Eva</author>
+        <title>The Sundered Grail</title>
+        <genre>Fantasy</genre>
+        <price>5.95</price>
+        <publish_date>2001-09-10</publish_date>
+        <description>The two daughters of Maeve</description>
+  </book>
+</catalog>
